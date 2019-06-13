@@ -7,6 +7,10 @@ OPS4J projects.
 This is the official source repository of the OPS4J Pax Swissbox project.
 Its licensed under the Apache Software License 2.0 by the OPS4J community.
 
+## Custom Release
+
+Due to unavailability of ops4j snapshot repository we did a custom release for swissbox in order to be able to release pax-exam.
+
 ## Documentation
 
 * <http://team.ops4j.org/wiki/display/PAXSB>
